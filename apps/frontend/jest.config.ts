@@ -1,6 +1,6 @@
 /* eslint-disable */
 export default {
-  displayName: 'common-ui',
+  displayName: 'frontend',
   preset: '../../jest.preset.js',
   globals: {
     NODE_ENV: 'test'
